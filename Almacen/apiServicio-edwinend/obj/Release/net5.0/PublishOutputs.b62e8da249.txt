@@ -1,0 +1,17 @@
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\apiServicio.exe
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\appsettings.json
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\apiServicio.dll
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\apiServicio.deps.json
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\apiServicio.runtimeconfig.json
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\apiServicio.pdb
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\System.Data.SqlClient.dll
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Domingo Sabio\sexto Semestre\sistema\Almacen\apiServicio-edwinend\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
